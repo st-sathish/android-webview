@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         progressBar = findViewById(R.id.progressBar);
         mWebview.getSettings().setJavaScriptEnabled(true);
         mWebview.setWebViewClient(new WebViewClient());
-        mWebview.loadUrl("http://chayakadai.com/web004/");
+        mWebview.loadUrl("http://103.137.138.6/apdch");
         //
     }
 
